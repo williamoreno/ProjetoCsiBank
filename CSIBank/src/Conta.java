@@ -4,7 +4,7 @@ public class Conta {
 	int agencia;
 	int numero;
 	Titular titular;
-	
+	Endereco endereco;
 	public double getSaldo() {
 		return saldo;
 	}
